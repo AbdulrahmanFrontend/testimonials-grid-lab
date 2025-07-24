@@ -14,7 +14,7 @@ The goal was to build a responsive grid layout displaying graduate testimonials,
 
 ## 🔍 Project Preview
 
-- **[Live Demo](https://your-deployed-url.com)** (if deployed)
+- **[Live Demo](https://abdulrahmanfrontend.github.io/testimonials-grid-lab/)**
 - [Original Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
 ## 🛠️ Technologies Used
