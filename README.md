@@ -60,6 +60,7 @@ npm install
 npm run dev
 ```
 Open your browser at http://localhost:5173.
+
 4. Build for production:
 ```bash
 npm run build
